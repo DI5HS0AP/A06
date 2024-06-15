@@ -13,6 +13,11 @@ header img {
 main {
 	clear: left;
 }
+
+a:hover{
+	text-decoration: italic;
+  }
+
 main h1 {
 	font-size: 150%;
 }
@@ -29,3 +34,6 @@ main h3 {
 }
 
 /* the styles for the footer */
+footer p{
+	text-align:center;
+}
