@@ -18,9 +18,15 @@ a:hover{
 	text-decoration: italic;
   }
 
+main .shadow{
+	text-shadow: 2px -2px 0 #800000
+}
+
 main h1 {
 	font-size: 150%;
+	color:#800000
 }
+
 main h2 {
 	color: #800000;
 	font-size: 170%;
